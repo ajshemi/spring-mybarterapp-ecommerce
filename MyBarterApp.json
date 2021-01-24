@@ -1,0 +1,14 @@
+[
+    {
+        "sellerName":"John",
+        "name":"Toothpaste"
+    },
+    {
+        "sellerName":"Paul",
+        "name":"Shampoo"
+    },
+    {
+        "sellerName":"Peter",
+        "name":"Toothbrush"
+    }
+]
